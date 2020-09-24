@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Prog1_c.dir/prog1.c.o  -o Prog1_c 

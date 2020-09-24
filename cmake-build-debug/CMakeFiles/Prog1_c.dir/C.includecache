@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jackschip/Desktop/Prog1.c/prog1.c
+stdio.h
+-
+pthread.h
+-
+ctype.h
+-
+sys/types.h
+-
+unistd.h
+-
+

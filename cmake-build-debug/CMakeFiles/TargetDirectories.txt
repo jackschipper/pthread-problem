@@ -1,0 +1,3 @@
+/home/jackschip/Desktop/Prog1.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jackschip/Desktop/Prog1.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jackschip/Desktop/Prog1.c/cmake-build-debug/CMakeFiles/Prog1_c.dir
